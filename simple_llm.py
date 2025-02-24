@@ -1,3 +1,7 @@
+"""
+This only works in The [skills-network] from IBM (basically in my Coursera lab)
+"""
+
 from ibm_watson_machine_learning.foundation_models import Model
 from ibm_watson_machine_learning.foundation_models.extensions.langchain import WatsonxLLM
 from ibm_watson_machine_learning.metanames import GenTextParamsMetaNames as GenParams
